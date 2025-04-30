@@ -1,2 +1,1 @@
-# Midas
-Project repo for the JPMC Advanced Software Engineering Forage program
+JPMorgans Chase & Co's Midas System
