@@ -1,1 +1,1 @@
-JPMorgans Chase & Co's Midas System
+JPMorgans Chase & Co's Midas Core
